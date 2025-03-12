@@ -1,9 +1,7 @@
 # Video-Capture-Server-Performance-Simulation
 This project simulates the performance of a video capture server, focusing on the processing capabilities of the encoder and storage server. The simulation aims to evaluate the frame loss ratio and storage server utilization under different conditions.
 
-## License
-
-Introduction
+## Introduction
 The Video Capture Server Performance Simulation project is designed to evaluate the performance of a video capture server. The simulation models the arrival of video frames, encoding, and storage processes. It calculates the frame loss ratio and storage server utilization to help understand the system's performance under various conditions.
 
 ## Features
@@ -72,8 +70,3 @@ Capacity of storage: 1600.00
 Frame Loss Ratio (f): 0.12345678
 Storage Utilization (u): 0.98765432
 ```
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or bug fixes.
-
-## License
-This project is licensed under the MIT License.
